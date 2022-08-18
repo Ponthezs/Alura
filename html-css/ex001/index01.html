@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Etanol</title>
+</head>
+<body>
+    <h3>Álcool ou Gasolina?</h3>
+    <p>Vamos comparar os valores!</p>
+    <h4>informações</h4>
+    <p>Tanque de 40 L <br> 480KM <br> calcular o consumo!</p>
+
+    <script>    
+
+        var tanque = 40;
+
+        var caminhoComGasolina = 480;
+        var consumoDeGasolina = caminhoComGasolina/tanque;
+
+        var caminhoComAlcool = 300;
+        var consumoDeAlcool = caminhoComAlcool/tanque;
+
+        document.write("O consumo de Gasolina é " + consumoDeGasolina + " km/L");
+
+        document.write("<br>");
+
+        document.write("O consumo de Álcool é " + consumoDeAlcool + " km/L");
+
+    </script>
+</body>
+</html>

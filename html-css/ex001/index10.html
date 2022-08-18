@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>teste</title>
+</head>
+<body>
+    <script>
+
+        function pulaLinha() {
+        
+            document.write("<br>");
+            document.write("<br>");
+        
+        }
+        
+        function mostra(frase) {
+        
+            document.write(frase);
+            pulaLinha();
+        
+        }
+
+        var toltalfamiliares = parseInt(prompt("Quantidade de familiares?"));
+
+        var numero = 1;
+
+        var totalidades = 0;  // Isso tem que ser fora do WHILE.
+
+        while (numero <= toltalfamiliares) {
+            
+        var idade = parseInt(prompt("Informe idade do familiar"));
+        totalidades = totalidades + idade;
+        numero++;
+    } 
+        var mediadasidades = totalidades/toltalfamiliares;
+        mostra("A média das idades dos familiares é " + mediadasidades);
+
+    </script>
+
+</body>
+</html>

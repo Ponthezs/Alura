@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diferenças de idades</title>
+</head>
+<body>
+        <h1>EX01</h1>
+    <script>
+
+        //Maneira que eu fiz!
+
+        function pulaLinha() {
+            document.write ("<br>")
+        }
+
+        function mostra(texto){
+            document.write (texto)
+        }
+
+
+        var minhaidade = 15;
+        var idadeamigo = 18;
+
+
+        mostra("Nossa diferença de idade é de!");
+        pulaLinha();
+        mostra(minhaidade - idadeamigo); // Não colocar em Aspas ""....
+        pulaLinha();
+
+
+
+        // Maneira do instrutor!
+
+        function pulaLinha() {
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+        document.write(frase);
+    }
+
+    var minhaIdade = 18;
+    var idadeIrmao = 15;
+
+    mostra("Nossa diferença de idade é " + (minhaIdade - idadeIrmao));
+    pulaLinha();
+
+
+        // Instrutor 
+
+    
+        function pulaLinha() {
+            document.write("<br>");
+        }
+
+        function mostra(frase) {
+            document.write(frase);
+            pulaLinha();
+        }
+
+        var idadeMediaQuandoTemFilhos = 28;
+        var anoAtual = 2016; 
+
+        var quantidadeDeGeracoes = (anoAtual - 1500) / idadeMediaQuandoTemFilhos;
+
+        mostra(quantidadeDeGeracoes);
+
+
+
+        // Instrutor
+
+        function pulaLinha() {
+            document.write("<br>");
+        }
+
+        function mostra(frase) {
+            document.write(frase);
+            pulaLinha();
+        }
+
+        var ano = 2019;
+        mostra("Eu nasci em : " + (ano - 25));
+        mostra("Adriano nasceu em : " + (ano - 26));
+        mostra("Paulo nasceu em : " + (ano - 32));
+
+
+        
+        // Oque tinha para mudar!
+
+        function pulaLinha() {
+            // pulando duas linhas
+            document.write("<br><hr><br>");
+        }
+
+        function mostra(frase) {
+            document.write("<big>" + frase + "</big>");
+            pulaLinha();
+        }
+
+
+
+    </script>
+    
+</body>
+</html>

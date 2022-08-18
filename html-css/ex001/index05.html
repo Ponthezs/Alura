@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMC</title>
+</head>
+<body>
+
+    <script>
+
+        function pulaLinha() {
+
+            document.write("<br>");
+            document.write("<br>");
+
+    }
+
+        function mostra(frase) {
+
+            document.write(frase);
+            pulaLinha();
+    }
+
+    function calculaimc(altura, peso) {  // x, y
+        return peso / (altura * altura);
+        
+    }
+
+    var nome = prompt("Informe o seu nome")
+    var alturainformada = prompt(nome + ", informe sua altura");
+    var pesoinformado = prompt(nome + ", informe seu peso");
+
+    var imc = calculaimc(alturainformada, pesoinformado)
+
+    document.write (nome + ", o seu IMC calculado é " + imc);
+
+    if(imc < 18.5) {
+        mostra("Você está abaixo do remomendado")
+    }
+
+    if(imc > 35) {
+        mostra("Você está acima do recomendado")
+    }
+
+
+
+
+
+
+
+
+
+
+    //var pesoflavio = 73;
+    //var alturaflavio = 1.71;
+
+    //var imc1 = calculaimc(73, 1.71);
+
+    //var imcflavio = pesoflavio / (alturaflavio * alturaflavio);
+
+  
+
+    //var pesoamigo = 68;
+    //var alturaamigo = 1.72;
+
+    //var imc2 = calculaimc(68, 1.72);
+
+    //var totalimc = imc1 + imc2
+
+    //document.write ("A somo dos IMC'S é " + totalimc)
+
+    //mostra(imc1);
+    //mostra(imc2);
+
+    //var imcdoamigo = pesoamigo / (alturaamigo * alturaamigo);
+
+
+
+
+
+    </script>
+</body>
+</html>
