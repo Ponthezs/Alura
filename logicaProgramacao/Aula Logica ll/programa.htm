@@ -22,10 +22,14 @@
             pincel.strokeRect (x, y, 50, 50)
         }
 
-        square(0, 0, 'blue');
-        square(0, 50, 'green');
-        square(0, 100, 'red');
-        square(0, 150, 'yellow');
+        var x = 0;
+        while(x < 600) {
+            square(x, 0, 'blue');
+            square(x, 50, 'red');
+            square(x, 100, 'yellow');
+            x = x + 50;
+        }
+
     </script>
 </body>
 </html>
