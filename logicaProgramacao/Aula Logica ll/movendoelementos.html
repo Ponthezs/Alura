@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movendo Elementos -  Aula</title>
+</head>
+<body>
+    <canvas width="600" height="400"></canvas>
+
+<script>
+             // Container
+    var tela = document.querySelector('canvas');
+    var pincel = tela.getContext('2d');
+    pincel.fillStyle = 'aliceblue';
+    pincel.fillRect(0, 0, 600, 400);
+
+    function drawCircle(x, y, raio) {
+
+        pincel.fillStyle = 'blue'
+        pincel.beginPath();
+        pincel.arc(x, y, raio, 0,  2 * Math.PI);
+        pincel.fill();
+    }
+
+        //Animação da Bolinha se movendo
+
+    function clearScreen(){
+
+        pincel.clearRect(0, 0, 600, 400);
+
+    }
+
+    var x = 20; // o importante é que seja declarado fora da função atualizaTela.
+
+    var sentido = 1;
+
+    function screenAtualize(){
+        
+        clearScreen();
+        
+        if ( x > 600) {
+            sentido = -1;
+        }else if (x < 0) {
+            sentido = 1;
+        }
+
+        drawCircle(x, 20, 10);
+        x = x + sentido;
+
+    }
+
+
+
+    setInterval(screenAtualize, 5)
+
+
+    //for ( var x =  20; x < 600; x++){
+    //}
+
+
+
+
+</script>
+</body>
+</html>
