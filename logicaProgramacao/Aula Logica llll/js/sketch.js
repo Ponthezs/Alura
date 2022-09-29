@@ -1,7 +1,8 @@
 
-function setup() {
+function setup(){
   createCanvas(500, 400);
 }
+
 
 function draw() {
   background(imagemDaEstrada);
@@ -10,6 +11,11 @@ function draw() {
   movimentaCarro();
   movimentaAtor();
   voltaPosicaoInicialDoCarro();
+  passouTodaATela();
+  verificaColisao();
+  incluiPontos();
+  marcaPonto();
+  pontosMaiorQueZero();
 }
 
 
