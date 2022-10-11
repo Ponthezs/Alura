@@ -17,5 +17,5 @@ module.exports = defineConfig({
   "html"; true,
   "json"; false,
   "timestamp"; "mmddyyyy_HHMMss"
-  }    
+  }   
 }
