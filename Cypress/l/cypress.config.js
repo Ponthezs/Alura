@@ -1,5 +1,7 @@
 const { defineConfig } = require("cypress");
 
+/* This is the configuration for the Cypress Dashboard. */
+
 module.exports = defineConfig({
   projectId: '1di7q8',
   e2e: {
@@ -9,6 +11,7 @@ module.exports = defineConfig({
   },
 });
 
+/* A reporter that generates a report in the cypress/report/mochawesome-report folder. */
 {
   "reporter"; "mochawesome",
   "reporterOptions"; {

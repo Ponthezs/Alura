@@ -56,6 +56,7 @@ describe('Login e registro de usuarios alura pic', () => {
       });
    })
 
+/* Registering a new user. */
    it.only('registra novo usuário', () => {
       cy.contains('a', 'Register now').click();
       cy.contains('button', 'Register').click();
