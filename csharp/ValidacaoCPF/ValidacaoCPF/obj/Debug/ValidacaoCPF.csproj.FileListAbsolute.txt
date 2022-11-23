@@ -1,0 +1,14 @@
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\bin\Debug\ValidacaoCPF.exe.config
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\bin\Debug\ValidacaoCPF.exe
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\bin\Debug\ValidacaoCPF.pdb
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\bin\Debug\Caelum.Stella.CSharp.dll
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.csproj.CopyComplete
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.exe
+C:\Users\felipe.pontes\source\repos\ValidacaoCPF\ValidacaoCPF\obj\Debug\ValidacaoCPF.pdb
