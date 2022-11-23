@@ -1,4 +1,5 @@
-﻿using Caelum.Stella.CSharp.Validation;
+﻿using Caelum.Stella.CSharp.Format;
+using Caelum.Stella.CSharp.Validation;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -19,18 +20,46 @@ namespace ValidacaoCPF
             ValidarCPF(cpf1);
             ValidarCPF(cpf2);
             ValidarCPF(cpf3);
+
+            string titulo1 = "041372570132";
+            string titulo2 = "774387480132";
+
+            ValidarTitulo(titulo1);
+            ValidarTitulo(titulo2);
+
+            Debug.WriteLine(cpf1);
+            string cpfFormatado = new CPFFormatter().Format(cpf1);
+            Debug.WriteLine(cpfFormatado);
+            Debug.WriteLine(new CPFFormatter().Format(cpfFormatado));
+            Debug.WriteLine(new CPFFormatter().Unformat(cpfFormatado));
+            Debug.WriteLine(titulo1);
+            Debug.WriteLine(new TituloEleitoralFormatter().Format(titulo1));
+
+        }
+
+
+
+        private static void ValidarTitulo(string titulo)
+        {
+            if (new TituloEleitoralValidator().IsValid(titulo))
+            {
+                Debug.WriteLine("Título válido: " + titulo);
+            }
+            else
+            {
+                Debug.WriteLine("Título inválido: " + titulo);
+            }
         }
 
         private static void ValidarCPF(string cpf)
         {
-            try
+            if (new CPFValidator().IsValid(cpf))
             {
-                new CPFValidator().AssertValid(cpf);
                 Debug.WriteLine("CPF válido: " + cpf);
             }
-            catch (Exception exc)
+            else
             {
-                Debug.WriteLine("CPF inválido: " + cpf + " : " + exc.ToString());
+                Debug.WriteLine("CPF inválido: " + cpf);
             }
         }
     }
