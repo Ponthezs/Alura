@@ -1,0 +1,14 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\obj\Debug\NumerosExtensos.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\obj\Debug\NumerosExtensos.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\obj\Debug\NumerosExtensos.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\bin\Debug\NumerosExtensos.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\bin\Debug\NumerosExtensos.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\bin\Debug\NumerosExtensos.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\bin\Debug\Caelum.Stella.CSharp.dll
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\obj\Debug\NumerosExtensos.csproj.CopyComplete
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\obj\Debug\NumerosExtensos.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\NumerosExtensos\NumerosExtensos\obj\Debug\NumerosExtensos.pdb

@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\source\repos\trabalhocomdatas\trabalhocomdatas\bin\Debug\trabalhocomdatas.exe.config
+C:\Users\felipe.pontes\source\repos\trabalhocomdatas\trabalhocomdatas\bin\Debug\trabalhocomdatas.exe
+C:\Users\felipe.pontes\source\repos\trabalhocomdatas\trabalhocomdatas\bin\Debug\trabalhocomdatas.pdb
+C:\Users\felipe.pontes\source\repos\trabalhocomdatas\trabalhocomdatas\obj\Debug\trabalhocomdatas.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\source\repos\trabalhocomdatas\trabalhocomdatas\obj\Debug\trabalhocomdatas.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\source\repos\trabalhocomdatas\trabalhocomdatas\obj\Debug\trabalhocomdatas.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\source\repos\trabalhocomdatas\trabalhocomdatas\obj\Debug\trabalhocomdatas.exe
+C:\Users\felipe.pontes\source\repos\trabalhocomdatas\trabalhocomdatas\obj\Debug\trabalhocomdatas.pdb
