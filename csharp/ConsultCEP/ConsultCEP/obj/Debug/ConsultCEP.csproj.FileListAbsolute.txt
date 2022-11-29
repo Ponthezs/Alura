@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ConsultCEP\ConsultCEP\obj\Debug\ConsultCEP.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ConsultCEP\ConsultCEP\obj\Debug\ConsultCEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ConsultCEP\ConsultCEP\obj\Debug\ConsultCEP.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ConsultCEP\ConsultCEP\bin\Debug\ConsultCEP.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ConsultCEP\ConsultCEP\bin\Debug\ConsultCEP.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ConsultCEP\ConsultCEP\bin\Debug\ConsultCEP.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ConsultCEP\ConsultCEP\obj\Debug\ConsultCEP.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ConsultCEP\ConsultCEP\obj\Debug\ConsultCEP.pdb

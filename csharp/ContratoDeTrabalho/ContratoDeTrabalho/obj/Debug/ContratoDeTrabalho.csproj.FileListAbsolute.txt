@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\ContratoDeTrabalho.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\ContratoDeTrabalho.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\ContratoDeTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ContratoDeTrabalho\ContratoDeTrabalho\bin\Debug\ContratoDeTrabalho.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ContratoDeTrabalho\ContratoDeTrabalho\bin\Debug\ContratoDeTrabalho.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ContratoDeTrabalho\ContratoDeTrabalho\bin\Debug\ContratoDeTrabalho.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\ContratoDeTrabalho.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\ContratoDeTrabalho\ContratoDeTrabalho\obj\Debug\ContratoDeTrabalho.pdb

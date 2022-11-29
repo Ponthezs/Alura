@@ -1,0 +1,14 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\bin\Debug\TrabalhandoComMoney.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\bin\Debug\TrabalhandoComMoney.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\bin\Debug\TrabalhandoComMoney.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\bin\Debug\Caelum.Stella.CSharp.dll
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\obj\Debug\TrabalhandoComMoney.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\obj\Debug\TrabalhandoComMoney.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\obj\Debug\TrabalhandoComMoney.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\obj\Debug\TrabalhandoComMoney.csproj.CopyComplete
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\obj\Debug\TrabalhandoComMoney.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\TrabalhandoComMoney\TrabalhandoComMoney\obj\Debug\TrabalhandoComMoney.pdb
