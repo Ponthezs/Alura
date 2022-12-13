@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\Algoritmo de Trabb Pardo-Knuth\Algoritmo de Trabb Pardo-Knuth\bin\Debug\Algoritmo de Trabb Pardo-Knuth.exe.config
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\Algoritmo de Trabb Pardo-Knuth\Algoritmo de Trabb Pardo-Knuth\bin\Debug\Algoritmo de Trabb Pardo-Knuth.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\Algoritmo de Trabb Pardo-Knuth\Algoritmo de Trabb Pardo-Knuth\bin\Debug\Algoritmo de Trabb Pardo-Knuth.pdb
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\Algoritmo de Trabb Pardo-Knuth\Algoritmo de Trabb Pardo-Knuth\obj\Debug\Algoritmo de Trabb Pardo-Knuth.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\Algoritmo de Trabb Pardo-Knuth\Algoritmo de Trabb Pardo-Knuth\obj\Debug\Algoritmo de Trabb Pardo-Knuth.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\Algoritmo de Trabb Pardo-Knuth\Algoritmo de Trabb Pardo-Knuth\obj\Debug\Algoritmo de Trabb Pardo-Knuth.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\Algoritmo de Trabb Pardo-Knuth\Algoritmo de Trabb Pardo-Knuth\obj\Debug\Algoritmo de Trabb Pardo-Knuth.exe
+C:\Users\felipe.pontes\Documents\Dev\Cursos\Alura\Alura\csharp\Algoritmo de Trabb Pardo-Knuth\Algoritmo de Trabb Pardo-Knuth\obj\Debug\Algoritmo de Trabb Pardo-Knuth.pdb
