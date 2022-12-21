@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\3-CirandoVariaveisPontosFlutuantes\3-CirandoVariaveisPontosFlutuantes\obj\Debug\3-CirandoVariaveisPontosFlutuantes.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\3-CirandoVariaveisPontosFlutuantes\3-CirandoVariaveisPontosFlutuantes\obj\Debug\3-CirandoVariaveisPontosFlutuantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\3-CirandoVariaveisPontosFlutuantes\3-CirandoVariaveisPontosFlutuantes\obj\Debug\3-CirandoVariaveisPontosFlutuantes.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\3-CirandoVariaveisPontosFlutuantes\3-CirandoVariaveisPontosFlutuantes\bin\Debug\3-CirandoVariaveisPontosFlutuantes.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\3-CirandoVariaveisPontosFlutuantes\3-CirandoVariaveisPontosFlutuantes\bin\Debug\3-CirandoVariaveisPontosFlutuantes.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\3-CirandoVariaveisPontosFlutuantes\3-CirandoVariaveisPontosFlutuantes\bin\Debug\3-CirandoVariaveisPontosFlutuantes.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\3-CirandoVariaveisPontosFlutuantes\3-CirandoVariaveisPontosFlutuantes\obj\Debug\3-CirandoVariaveisPontosFlutuantes.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\3-CirandoVariaveisPontosFlutuantes\3-CirandoVariaveisPontosFlutuantes\obj\Debug\3-CirandoVariaveisPontosFlutuantes.pdb
