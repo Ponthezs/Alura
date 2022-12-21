@@ -1,0 +1,3 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\7-Condicionais\7-Condicionais\obj\Debug\7-Condicionais.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\7-Condicionais\7-Condicionais\obj\Debug\7-Condicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\7-Condicionais\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache

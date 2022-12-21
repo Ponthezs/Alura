@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _7_Condicionais
+namespace _9_Escopo
 {
     internal class Program
     {
@@ -16,20 +16,28 @@ namespace _7_Condicionais
             int quantidadePessoas = 2;
 
             bool acompanhado = quantidadePessoas > 1;
-            bool grupo = false;
 
-            if (idadeJoao >= 18 || acompanhado)
+            string textoAdicional;
+
+            if (acompanhado == true)
             {
-                Console.WriteLine("Pode entrar!");
+                textoAdicional = "João está acompanhado";
             }
             else
             {
-                Console.WriteLine("Não pode entrar!");
+                textoAdicional = "João não está acompanhado";
             }
+            if (idadeJoao >= 18 || acompanhado)
+            {
+                Console.WriteLine(textoAdicional);
+                Console.WriteLine("Pode entrar!");
+            }
+            else
+                Console.WriteLine("Não pode entrar!");
+            Console.WriteLine("");
 
             Console.WriteLine("Tecle enter para fechar ...");
             Console.ReadLine();
-
         }
     }
 }
