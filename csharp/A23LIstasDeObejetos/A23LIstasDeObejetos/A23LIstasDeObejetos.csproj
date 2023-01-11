@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{69EEA74B-9CA5-4674-9D62-678D9ECF1923}</ProjectGuid>
+    <ProjectGuid>{D3FBCFEC-EB7A-450E-A810-F692A5BC2D47}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp1</RootNamespace>
-    <AssemblyName>ConsoleApp1</AssemblyName>
+    <RootNamespace>A23LIstasDeObejetos</RootNamespace>
+    <AssemblyName>A23LIstasDeObejetos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IRegistro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RegistraConsole.cs" />
-    <Compile Include="RegistraConsole1.cs" />
-    <Compile Include="ResgistraNoDisco.cs" />
-    <Compile Include="ResgistroOcorrencia.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
