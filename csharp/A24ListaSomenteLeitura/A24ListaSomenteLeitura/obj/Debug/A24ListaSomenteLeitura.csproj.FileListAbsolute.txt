@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A24ListaSomenteLeitura\A24ListaSomenteLeitura\bin\Debug\A24ListaSomenteLeitura.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A24ListaSomenteLeitura\A24ListaSomenteLeitura\bin\Debug\A24ListaSomenteLeitura.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A24ListaSomenteLeitura\A24ListaSomenteLeitura\bin\Debug\A24ListaSomenteLeitura.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A24ListaSomenteLeitura\A24ListaSomenteLeitura\obj\Debug\A24ListaSomenteLeitura.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A24ListaSomenteLeitura\A24ListaSomenteLeitura\obj\Debug\A24ListaSomenteLeitura.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A24ListaSomenteLeitura\A24ListaSomenteLeitura\obj\Debug\A24ListaSomenteLeitura.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A24ListaSomenteLeitura\A24ListaSomenteLeitura\obj\Debug\A24ListaSomenteLeitura.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A24ListaSomenteLeitura\A24ListaSomenteLeitura\obj\Debug\A24ListaSomenteLeitura.pdb
