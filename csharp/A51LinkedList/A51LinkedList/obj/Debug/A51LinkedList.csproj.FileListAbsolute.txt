@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A51LinkedList\A51LinkedList\bin\Debug\A51LinkedList.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A51LinkedList\A51LinkedList\bin\Debug\A51LinkedList.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A51LinkedList\A51LinkedList\bin\Debug\A51LinkedList.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A51LinkedList\A51LinkedList\obj\Debug\A51LinkedList.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A51LinkedList\A51LinkedList\obj\Debug\A51LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A51LinkedList\A51LinkedList\obj\Debug\A51LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A51LinkedList\A51LinkedList\obj\Debug\A51LinkedList.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A51LinkedList\A51LinkedList\obj\Debug\A51LinkedList.pdb
