@@ -11,6 +11,7 @@ namespace OláMundo
         static void Main(string[] args)
         {
             Console.WriteLine("Olá, mundo. Este é meu primeiro programa!");
+            Console.WriteLine();
         }
     }
 }
