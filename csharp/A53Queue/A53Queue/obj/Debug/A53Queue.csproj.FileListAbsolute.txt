@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A53Queue\A53Queue\bin\Debug\A53Queue.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A53Queue\A53Queue\bin\Debug\A53Queue.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A53Queue\A53Queue\bin\Debug\A53Queue.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A53Queue\A53Queue\obj\Debug\A53Queue.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A53Queue\A53Queue\obj\Debug\A53Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A53Queue\A53Queue\obj\Debug\A53Queue.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A53Queue\A53Queue\obj\Debug\A53Queue.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A53Queue\A53Queue\obj\Debug\A53Queue.pdb

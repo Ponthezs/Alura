@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A31OPoderDosSets\A31OPoderDosSets\bin\Debug\A31OPoderDosSets.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A31OPoderDosSets\A31OPoderDosSets\bin\Debug\A31OPoderDosSets.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A31OPoderDosSets\A31OPoderDosSets\bin\Debug\A31OPoderDosSets.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A31OPoderDosSets\A31OPoderDosSets\obj\Debug\A31OPoderDosSets.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A31OPoderDosSets\A31OPoderDosSets\obj\Debug\A31OPoderDosSets.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A31OPoderDosSets\A31OPoderDosSets\obj\Debug\A31OPoderDosSets.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A31OPoderDosSets\A31OPoderDosSets\obj\Debug\A31OPoderDosSets.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A31OPoderDosSets\A31OPoderDosSets\obj\Debug\A31OPoderDosSets.pdb

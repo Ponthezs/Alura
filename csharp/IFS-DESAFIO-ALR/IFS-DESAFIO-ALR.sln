@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFS-DESAFIO-ALR", "IFS-DESAFIO-ALR\IFS-DESAFIO-ALR.csproj", "{87B8177C-BC9A-4BB5-9428-7350ED0B6401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B8177C-BC9A-4BB5-9428-7350ED0B6401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B8177C-BC9A-4BB5-9428-7350ED0B6401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B8177C-BC9A-4BB5-9428-7350ED0B6401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B8177C-BC9A-4BB5-9428-7350ED0B6401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7630AAC-A0C2-4D97-A6D4-D315C35F0B47}
+	EndGlobalSection
+EndGlobal

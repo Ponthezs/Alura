@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A52Stack\A52Stack\bin\Debug\A52Stack.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A52Stack\A52Stack\bin\Debug\A52Stack.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A52Stack\A52Stack\bin\Debug\A52Stack.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A52Stack\A52Stack\obj\Debug\A52Stack.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A52Stack\A52Stack\obj\Debug\A52Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A52Stack\A52Stack\obj\Debug\A52Stack.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A52Stack\A52Stack\obj\Debug\A52Stack.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\A52Stack\A52Stack\obj\Debug\A52Stack.pdb

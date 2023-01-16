@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\AplicandoConsoleTST\AplicandoConsoleTST\obj\Debug\AplicandoConsoleTST.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\AplicandoConsoleTST\AplicandoConsoleTST\obj\Debug\AplicandoConsoleTST.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\AplicandoConsoleTST\AplicandoConsoleTST\obj\Debug\AplicandoConsoleTST.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\AplicandoConsoleTST\AplicandoConsoleTST\bin\Debug\AplicandoConsoleTST.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\AplicandoConsoleTST\AplicandoConsoleTST\bin\Debug\AplicandoConsoleTST.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\AplicandoConsoleTST\AplicandoConsoleTST\bin\Debug\AplicandoConsoleTST.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\AplicandoConsoleTST\AplicandoConsoleTST\obj\Debug\AplicandoConsoleTST.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\AplicandoConsoleTST\AplicandoConsoleTST\obj\Debug\AplicandoConsoleTST.pdb

@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\5-CaracteresEtexto\5-CaracteresEtexto\obj\Debug\5-CaracteresEtexto.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\5-CaracteresEtexto\5-CaracteresEtexto\obj\Debug\5-CaracteresEtexto.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\5-CaracteresEtexto\5-CaracteresEtexto\obj\Debug\5-CaracteresEtexto.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\5-CaracteresEtexto\5-CaracteresEtexto\bin\Debug\5-CaracteresEtexto.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\5-CaracteresEtexto\5-CaracteresEtexto\bin\Debug\5-CaracteresEtexto.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\5-CaracteresEtexto\5-CaracteresEtexto\bin\Debug\5-CaracteresEtexto.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\5-CaracteresEtexto\5-CaracteresEtexto\obj\Debug\5-CaracteresEtexto.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\5-CaracteresEtexto\5-CaracteresEtexto\obj\Debug\5-CaracteresEtexto.pdb
