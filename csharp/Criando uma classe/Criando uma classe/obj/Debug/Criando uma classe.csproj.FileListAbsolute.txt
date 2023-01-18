@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\Criando uma classe\Criando uma classe\bin\Debug\Criando uma classe.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\Criando uma classe\Criando uma classe\bin\Debug\Criando uma classe.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\Criando uma classe\Criando uma classe\bin\Debug\Criando uma classe.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\Criando uma classe\Criando uma classe\obj\Debug\Criando uma classe.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\Criando uma classe\Criando uma classe\obj\Debug\Criando uma classe.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\Criando uma classe\Criando uma classe\obj\Debug\Criando uma classe.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\Criando uma classe\Criando uma classe\obj\Debug\Criando uma classe.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\Criando uma classe\Criando uma classe\obj\Debug\Criando uma classe.pdb
