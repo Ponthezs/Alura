@@ -6,10 +6,17 @@ using System.Threading.Tasks;
 
 namespace Criando_uma_classe
 {
-    internal class Cliente
+    public class Cliente
     {
-        public string nome;
-        public string Cpf;
-        public string profissao;
+        public string Nome { get; set; }
+
+        public string cpf { get; set; }
+
+        public string Profissao { get; set; }
+
+
+
+        public static int TotalDeContasCriadas { get; private set; }
     }
+
 }
