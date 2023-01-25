@@ -14,6 +14,12 @@ namespace bankADM.Funcionarios
             return this.Salario + base.GetBonificacao();
         }
 
+        public Diretor()
+        {
+            Console.WriteLine("Criando um diretor.");
+        }
+
+
         //public string Nome { get; set; }
         //public string Cpf { get; set; }
         //public double Salario { get; set; }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using bankADM.Funcionarios;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,7 @@ namespace bankADM
     {
         static void Main(string[] args)
         {
-            Funcionario pedro = new Funcionario(0);
+            Funcionario pedro = new Funcionario();
             pedro.Nome = "Pedro malazartes";
             pedro.Cpf = "123456789";
             pedro.Salario = 2000;
@@ -31,6 +32,7 @@ namespace bankADM
             gerenciador.Registrar(roberta);
 
             Console.WriteLine("Total de bonificações: " + gerenciador.TotalDeBonificacao);
+            Console.WriteLine("Total de funcionários: " + Funcionario.TotalDeFuncionarios);
 
             Console.ReadLine();
 
