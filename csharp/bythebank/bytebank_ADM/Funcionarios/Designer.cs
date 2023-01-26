@@ -4,23 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bankADM
+namespace bytebank_ADM.Funcionarios
 {
-    public class GerenteDeConta : Funcionario
+    public class Designer : Funcionario
     {
-        public GerenteDeConta(string cpf) : base(cpf, 4000)
+        public Designer(string cpf) : base(cpf,3000)
         {
-
         }
 
         public override double GetBonificacao()
         {
-            return Salario * 0.25;
+            return this.Salario * 0.17;
         }
 
         public override void AumentarSalario()
         {
-            Salario *= 1.05;
+            this.Salario *= 1.11;
         }
     }
 }
