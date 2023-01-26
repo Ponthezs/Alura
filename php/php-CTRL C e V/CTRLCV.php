@@ -18,7 +18,7 @@ echo "#15" . PHP_EOL;
 
 $contador = 1;
 
-enquanto nao chegar a 15
+#enquanto nao chegar a 15
         echo $contador . PHP_EOL;
         $contador = $contador + 1;
 
