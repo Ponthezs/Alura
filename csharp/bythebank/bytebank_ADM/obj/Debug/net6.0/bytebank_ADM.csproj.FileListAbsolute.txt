@@ -1,0 +1,15 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.deps.json
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.runtimeconfig.json
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.dll
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfoInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfo.cs
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.dll
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\refint\bytebank_ADM.dll
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.genruntimeconfig.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\Alura\csharp\bythebank\bytebank_ADM\obj\Debug\net6.0\ref\bytebank_ADM.dll
