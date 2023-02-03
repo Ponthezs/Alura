@@ -10,24 +10,38 @@ class Program
     static void Main(string[] args)
     {
         var enderecoDoArquivo = "contas.txt";
-        var numeroDeBytesLidos = -1;
 
-        var fluxoDoArquivo = new FileStream(enderecoDoArquivo, FileMode.Open);
-
-        var buffer = new byte[1024]; //1KB
-
-        while (numeroDeBytesLidos != 0)
+        using (var fluxoDoArquivo = new FileStream(enderecoDoArquivo, FileMode.Open))
         {
-            numeroDeBytesLidos = fluxoDoArquivo.Read(buffer, 0, 1024);
-            EscreverBuffer(buffer);
-        }
+            var numeroDeBytesLidos = -1;
 
-        // Devoluções:
-        // 0 número total de bytes lidos do buffer. Isso poderá ser menor que o número de
-        // bytes solicitado se esse número de bytes não estiver disponível no momento, ou
-        //zero, se o final do fluxo for atingido
+            var buffer = new byte[1024]; //1KB      
 
-        // public override int Read(byte[] array, int offset, int count)
+            while (numeroDeBytesLidos != 0)
+            {
+                numeroDeBytesLidos = fluxoDoArquivo.Read(buffer, 0, 1024);
+                EscreverBuffer(buffer);
+            }
+
+
+            //var fluxoDoArquivo = new FileStream(enderecoDoArquivo, FileMode.Open);
+
+            //var buffer = new byte[1024]; //1KB
+
+            //while (numeroDeBytesLidos != 0)
+            //{
+            //    numeroDeBytesLidos = fluxoDoArquivo.Read(buffer, 0, 1024);
+            //    EscreverBuffer(buffer);
+            //}
+
+            // Devoluções:
+            // 0 número total de bytes lidos do buffer. Isso poderá ser menor que o número de
+            // bytes solicitado se esse número de bytes não estiver disponível no momento, ou
+            //zero, se o final do fluxo for atingido
+
+            // public override int Read(byte[] array, int offset, int count)
+            // public override int Read(byte[] array, int offset, int count);
+            fluxoDoArquivo.Close();
 
         Console.ReadLine();
     }
