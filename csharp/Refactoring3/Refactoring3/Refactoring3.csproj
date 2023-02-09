@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89C85F53-A631-48BF-A047-FC42D36BF9B5}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Refactoring3</RootNamespace>
+    <AssemblyName>Refactoring3</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aula1\R40.RenameMethod\antes\Credito.cs" />
+    <Compile Include="Aula1\R40.RenameMethod\depois\Credito.cs" />
+    <Compile Include="Aula1\R40.RenameMethod\depois\IPessoa.cs" />
+    <Compile Include="Aula1\R41.AddParameter\antes\CalculadoraDePrecos.cs" />
+    <Compile Include="Aula1\R41.AddParameter\depois\CalculadoraDePrecos.cs" />
+    <Compile Include="Aula1\R42.RemoveParameter\antes\CalculadoraDePrecos.cs" />
+    <Compile Include="Aula1\R42.RemoveParameter\depois\CalculadoraDePrecos.cs" />
+    <Compile Include="Aula1\R43.SeparateQueryFromModifier\antes\Cliente.cs" />
+    <Compile Include="Aula1\R43.SeparateQueryFromModifier\depois\Cliente.cs" />
+    <Compile Include="Aula2\R44.ParameterizeMethod\antes\Funcionario.cs" />
+    <Compile Include="Aula2\R44.ParameterizeMethod\depois\Funcionario.cs" />
+    <Compile Include="Aula2\R45.ReplaceParameterWithExplicitMethods\antes\Funcionario.cs" />
+    <Compile Include="Aula2\R45.ReplaceParameterWithExplicitMethods\depois\Funcionario.cs" />
+    <Compile Include="Aula2\R46.PreserveWholeObject\antes\ICMS.cs" />
+    <Compile Include="Aula2\R46.PreserveWholeObject\depois\ICMS.cs" />
+    <Compile Include="Aula2\R47.ReplaceParameterWMethodCall\antes\Cliente.cs" />
+    <Compile Include="Aula2\R47.ReplaceParameterWMethodCall\depois\Cliente.cs" />
+    <Compile Include="Aula2\R48.IntroduceParameterObject\antes\HotelFazenda.cs" />
+    <Compile Include="Aula2\R48.IntroduceParameterObject\depois\HotelFazenda.cs" />
+    <Compile Include="Aula3\R49.RemoveSettingMethod\antes\ContaCorrente.cs" />
+    <Compile Include="Aula3\R49.RemoveSettingMethod\depois\ContaCorrente.cs" />
+    <Compile Include="Aula3\R50.HideMethod\antes\HotelFazenda.cs" />
+    <Compile Include="Aula3\R50.HideMethod\depois\HotelFazenda.cs" />
+    <Compile Include="Aula3\R51.ReplaceConstructorWithFactoryMethod\antes\Funcionario.cs" />
+    <Compile Include="Aula3\R51.ReplaceConstructorWithFactoryMethod\depois\Funcionario.cs" />
+    <Compile Include="Aula3\R52.ReplaceErrorCodeWithException\antes\ContaBancaria.cs" />
+    <Compile Include="Aula3\R52.ReplaceErrorCodeWithException\depois\ContaBancaria.cs" />
+    <Compile Include="Aula3\R53.ReplaceExceptionwithTest\antes\ContaCorrente.cs" />
+    <Compile Include="Aula3\R53.ReplaceExceptionwithTest\depois\ContaCorrente.cs" />
+    <Compile Include="Aula4\R54.PullUpMethod\antes\Cliente.cs" />
+    <Compile Include="Aula4\R54.PullUpMethod\depois\Cliente.cs" />
+    <Compile Include="Aula4\R55.PullUpConstructorBody\antes\Cliente.cs" />
+    <Compile Include="Aula4\R55.PullUpConstructorBody\depois\Cliente.cs" />
+    <Compile Include="Aula4\R56.PushDownMethod\antes\Funcionario.cs" />
+    <Compile Include="Aula4\R56.PushDownMethod\depois\Funcionario.cs" />
+    <Compile Include="Aula4\R57.PushDownField\antes\Funcionario.cs" />
+    <Compile Include="Aula4\R57.PushDownField\depois\Funcionario.cs" />
+    <Compile Include="Aula5\R58.ExtractSubclass\antes\ItemDeServico.cs" />
+    <Compile Include="Aula5\R58.ExtractSubclass\depois\ItemDeServico.cs" />
+    <Compile Include="Aula5\R59.ExtractSuperclass\antes\NotasFiscais.cs" />
+    <Compile Include="Aula5\R59.ExtractSuperclass\depois\NotasFiscais.cs" />
+    <Compile Include="Aula5\R60.ExtractInterface\antes\CNPJFormatter.cs" />
+    <Compile Include="Aula5\R60.ExtractInterface\antes\CPFFormatter.cs" />
+    <Compile Include="Aula5\R60.ExtractInterface\antes\Program.cs" />
+    <Compile Include="Aula5\R60.ExtractInterface\depois\CNPJFormatter.cs" />
+    <Compile Include="Aula5\R60.ExtractInterface\depois\CPFFormatter.cs" />
+    <Compile Include="Aula5\R60.ExtractInterface\depois\IFormatter.cs" />
+    <Compile Include="Aula5\R60.ExtractInterface\depois\Program.cs" />
+    <Compile Include="Aula6\R61.CollapseHierarchy\antes\Funcionario.cs" />
+    <Compile Include="Aula6\R61.CollapseHierarchy\depois\Funcionario.cs" />
+    <Compile Include="Aula6\R62.FormTemplateMethod\antes\Customer.cs" />
+    <Compile Include="Aula6\R62.FormTemplateMethod\depois\Customer.cs" />
+    <Compile Include="Aula6\R63.ReplaceInheritanceWithDelegation\antes\Imovel.cs" />
+    <Compile Include="Aula6\R63.ReplaceInheritanceWithDelegation\depois\Imovel.cs" />
+    <Compile Include="Aula6\R64.ReplaceDelegationWithInheritance\antes\Imovel.cs" />
+    <Compile Include="Aula6\R64.ReplaceDelegationWithInheritance\depois\Imovel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Aula1\R43.SeparateQueryFromModifier\antes\SeparateQueryFromModifier.png" />
+    <Content Include="Aula1\R43.SeparateQueryFromModifier\depois\SeparateQueryFromModifier2.png" />
+    <Content Include="Aula2\R44.ParameterizeMethod\antes\ParameterizeMethod.png" />
+    <Content Include="Aula2\R44.ParameterizeMethod\depois\ParameterizeMethod2.png" />
+    <Content Include="Aula2\R45.ReplaceParameterWithExplicitMethods\antes\ReplaceParameterWithExplicitMethods.png" />
+    <Content Include="Aula2\R45.ReplaceParameterWithExplicitMethods\depois\ReplaceParameterWithExplicitMethods2.png" />
+    <Content Include="Aula2\R46.PreserveWholeObject\antes\PreserveWholeObject.png" />
+    <Content Include="Aula2\R46.PreserveWholeObject\depois\PreserveWholeObject2.png" />
+    <Content Include="Aula2\R47.ReplaceParameterWMethodCall\antes\ReplaceParameterWMethodCall.png" />
+    <Content Include="Aula2\R47.ReplaceParameterWMethodCall\depois\ReplaceParameterWMethodCall2.png" />
+    <Content Include="Aula2\R48.IntroduceParameterObject\antes\IntroduceParameterObject.png" />
+    <Content Include="Aula2\R48.IntroduceParameterObject\depois\IntroduceParameterObject2.png" />
+    <Content Include="Aula3\R50.HideMethod\antes\HideMethod.png" />
+    <Content Include="Aula3\R50.HideMethod\depois\HideMethod2.png" />
+    <Content Include="Aula3\R51.ReplaceConstructorWithFactoryMethod\antes\ReplaceConstructorWithFactoryMethod.png" />
+    <Content Include="Aula3\R51.ReplaceConstructorWithFactoryMethod\depois\ReplaceConstructorWithFactoryMethod2.png" />
+    <Content Include="Aula3\R52.ReplaceErrorCodeWithException\antes\ReplaceErrorCodeWithException.png" />
+    <Content Include="Aula3\R52.ReplaceErrorCodeWithException\depois\ReplaceErrorCodeWithException2.png" />
+    <Content Include="Aula3\R53.ReplaceExceptionwithTest\antes\antes.png" />
+    <Content Include="Aula3\R53.ReplaceExceptionwithTest\depois\depois.png" />
+    <Content Include="Aula4\R54.PullUpMethod\antes\PullUpMethod.png" />
+    <Content Include="Aula4\R54.PullUpMethod\depois\PullUpMethod2.png" />
+    <Content Include="Aula4\R56.PushDownMethod\antes\PushDownMethod.png" />
+    <Content Include="Aula4\R56.PushDownMethod\depois\PushDownMethod2.png" />
+    <Content Include="Aula4\R57.PushDownField\antes\PushDownField.png" />
+    <Content Include="Aula4\R57.PushDownField\depois\PushDownField2.png" />
+    <Content Include="Aula5\R58.ExtractSubclass\antes\ExtractSubclass.png" />
+    <Content Include="Aula5\R58.ExtractSubclass\depois\ExtractSubclass2.png" />
+    <Content Include="Aula5\R59.ExtractSuperclass\antes\antes.png" />
+    <Content Include="Aula5\R59.ExtractSuperclass\depois\depois.png" />
+    <Content Include="Aula6\R63.ReplaceInheritanceWithDelegation\antes\ReplaceInheritanceWithDelegation.png" />
+    <Content Include="Aula6\R63.ReplaceInheritanceWithDelegation\depois\ReplaceInheritanceWithDelegation2.png" />
+    <Content Include="Aula6\R64.ReplaceDelegationWithInheritance\antes\ReplaceDelegationWithInheritance.png" />
+    <Content Include="Aula6\R64.ReplaceDelegationWithInheritance\depois\ReplaceDelegationWithInheritance2.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
