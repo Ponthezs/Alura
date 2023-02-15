@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Refactoring3",
+    "\\Refactoring3\\Aula1",
+    "\\Refactoring3\\Aula1\\R41.AddParameter",
+    "\\Refactoring3\\Aula1\\R41.AddParameter\\depois",
+    "\\Refactoring3\\Aula1\\R43.SeparateQueryFromModifier",
+    "\\Refactoring3\\Aula1\\R43.SeparateQueryFromModifier\\depois",
+    "\\Refactoring3\\Aula6",
+    "\\Refactoring3\\Aula6\\R63.ReplaceInheritanceWithDelegation",
+    "\\Refactoring3\\Aula6\\R63.ReplaceInheritanceWithDelegation\\depois"
+  ],
+  "SelectedNode": "\\Refactoring3\\Aula1\\R43.SeparateQueryFromModifier\\depois\\Cliente.cs",
+  "PreviewInSolutionExplorer": false
+}
