@@ -1,0 +1,8 @@
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\csharp\Refactoring3\Refactoring3\bin\Debug\Refactoring3.exe.config
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\csharp\Refactoring3\Refactoring3\bin\Debug\Refactoring3.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\csharp\Refactoring3\Refactoring3\bin\Debug\Refactoring3.pdb
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\csharp\Refactoring3\Refactoring3\obj\Debug\Refactoring3.csproj.AssemblyReference.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\csharp\Refactoring3\Refactoring3\obj\Debug\Refactoring3.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\csharp\Refactoring3\Refactoring3\obj\Debug\Refactoring3.csproj.CoreCompileInputs.cache
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\csharp\Refactoring3\Refactoring3\obj\Debug\Refactoring3.exe
+C:\Users\felipe.pontes\OneDrive\Documentos\Dev\Cursos\Alura\csharp\Refactoring3\Refactoring3\obj\Debug\Refactoring3.pdb
