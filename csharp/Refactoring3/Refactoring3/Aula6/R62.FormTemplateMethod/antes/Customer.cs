@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using System.Text;
 
 namespace refatoracao.R62.FormTemplateMethod.antes
@@ -70,6 +71,14 @@ namespace refatoracao.R62.FormTemplateMethod.antes
             resultado.AppendLine("<p> Você deve: <em>R$ " + cliente.ValorTotal.ToString() + "</em></p>");
             resultado.AppendLine("Você ganhou: " + cliente.PontosDeFidelidade.ToString() + "</em> pontos.");
             return resultado.ToString();
+
+//            if{
+//                ManagedToNativeComInteropStubAttribute[
+//                    AttributeTargets[AsyncCallback]{
+//                    FormatException format;
+//                }
+//]
+//            };
         }
     }
 
