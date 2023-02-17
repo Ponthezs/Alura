@@ -47,5 +47,20 @@ namespace refatoracao.Parte3.Aula2.R45.ReplaceParameterWithExplicitMethods.antes
                     throw new ArgumentException("Tipo de aumento inválido");
             }
         }
+
+        //public override string ToString()
+        //{
+        //    return base.ToString();
+        //}
+
+        //public override bool Equals(object obj)
+        //{
+        //    return base.Equals(obj);
+        //}
+
+        //public override int GetHashCode()
+        //{
+        //    return base.GetHashCode();
+        //}
     }
 }
